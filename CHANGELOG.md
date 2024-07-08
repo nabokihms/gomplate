@@ -1,5 +1,12 @@
 # Change Log
 
+## [4.1.1](https://github.com/hairyhenderson/gomplate/compare/v4.1.0...v4.1.1) (2024-07-08)
+
+
+### Dependencies
+
+* **go:** Bump github.com/aws/aws-sdk-go from 1.54.15 to 1.54.16 ([#2172](https://github.com/hairyhenderson/gomplate/issues/2172)) ([19cd050](https://github.com/hairyhenderson/gomplate/commit/19cd050be438f9d407800725f16139d8a5f86624))
+
 ## [4.1.0](https://github.com/hairyhenderson/gomplate/compare/v4.0.1...v4.1.0) (2024-07-06)
 
 
